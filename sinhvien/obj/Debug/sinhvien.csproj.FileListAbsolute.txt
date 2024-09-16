@@ -1,0 +1,7 @@
+C:\Users\Kim Nghi\source\repos\sinhvien\obj\Debug\sinhvien.csproj.AssemblyReference.cache
+C:\Users\Kim Nghi\source\repos\sinhvien\obj\Debug\sinhvien.csproj.CoreCompileInputs.cache
+C:\Users\Kim Nghi\source\repos\sinhvien\bin\Debug\sinhvien.exe.config
+C:\Users\Kim Nghi\source\repos\sinhvien\bin\Debug\sinhvien.exe
+C:\Users\Kim Nghi\source\repos\sinhvien\bin\Debug\sinhvien.pdb
+C:\Users\Kim Nghi\source\repos\sinhvien\obj\Debug\sinhvien.exe
+C:\Users\Kim Nghi\source\repos\sinhvien\obj\Debug\sinhvien.pdb
